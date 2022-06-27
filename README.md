@@ -4,7 +4,7 @@ This package implementation uuid from https://github.com/google/uuid (this is st
 
 ### Install
 ```
-go get https://github.com/jutionck/generate-id
+go get github.com/jutionck/generate-id
 ```
 
 ### Use
